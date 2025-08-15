@@ -162,7 +162,7 @@ const Contact = () => {
                         <div className="icon-box">
                           <FiMail className="icon" />
                         </div>
-                        <span>contact@tnecotourisme.com</span>
+                        <span>contact@laghazala.com</span>
                       </motion.div>
                       <motion.div 
                         className="detail-item"

@@ -355,6 +355,7 @@ const circuitsByRegion = {
       price: 28,
       difficulty: "Moyen",
     },
+  
   ],
   Medenine: [
     {

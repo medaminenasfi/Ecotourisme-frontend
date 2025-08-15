@@ -600,7 +600,7 @@ const Profile = () => {
                                   {circuitInfo.name}
                                   {circuitInfo.isCustom && (
                                     <Badge bg="info" className="ms-2">
-                                      Personnalisé
+                                      
                                     </Badge>
                                   )}
                                 </h5>
